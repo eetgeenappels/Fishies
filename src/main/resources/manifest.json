@@ -1,0 +1,6 @@
+{
+  "Group": "nl.eetgeenappels",
+  "Name": "Fishies",
+  "Version": "1.0.0",
+  "Main": "nl.eetgeenappels.fishies.FishiesPlugin"
+}
