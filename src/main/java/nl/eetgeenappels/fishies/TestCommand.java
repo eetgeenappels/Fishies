@@ -20,7 +20,7 @@ public class TestCommand extends AbstractPlayerCommand {
     protected void execute(@NotNull CommandContext commandContext, @NotNull Store<EntityStore> store, @NotNull Ref<EntityStore> ref, @NotNull PlayerRef playerRef, @NotNull World world) {
         EventTitleUtil.showEventTitleToPlayer(
                 playerRef,
-                Message.raw("skibidi"),
+                Message.raw("skibiddddi"),
                 Message.raw("bop yes"),
                 true
         );
