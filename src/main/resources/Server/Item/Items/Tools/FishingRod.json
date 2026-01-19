@@ -1,46 +1,15 @@
 {
   "TranslationProperties": {
-    "Name": "items.GoneFishing_Fishing_Rod.name",
-    "Description": "Fishing Rod"
+    "Name": "Fishing Rod",
+    "Description": "Fish"
   },
-  "Icon": "Icons/ItemsGenerated/GoneFishing_Fishing_Rod.png",
-  "Model": "Items/Tools/Fishing_Rod/FishingRod.blockymodel",
-  "Texture": "Items/Tools/Fishing_Rod/FishingRod_Texture.png",
+  "Id": "FishingRod",
+  "Icon": "Icons/ItemsGenerated/Fishing_Rod.png",
+  "Model": "Items/Tools/FishingRod/Fishing_Rod.blockymodel",
+  "Texture": "Items/Tools/FishingRod/Fishing_Rod.png",
   "Quality": "Common",
   "MaxStack": 1,
-  "ItemLevel": 3,
   "Categories": [
     "Items.Tools"
-  ],
-  "Tags": {
-    "Type": [
-      "Tool"
-    ],
-    "Family": [
-      "Fishing_Rods"
-    ]
-  },
-  "Recipe": [],
-  "IconProperties": {
-    "Scale": 0.35,
-    "Rotation": [
-      57,
-      62,
-      22.5
-    ],
-    "Translation": [
-      -31,
-      -34
-    ]
-  },
-  "Set": "",
-  "Interactions": {
-    "Secondary": {
-      "Interactions": [
-        {
-          "Type": "FishingRod"
-        }
-      ]
-    }
-  }
+  ]
 }

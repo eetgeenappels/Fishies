@@ -15,7 +15,7 @@ public class FishiesPlugin extends JavaPlugin {
         super.setup();
         this.getCommandRegistry().registerCommand(new TestCommand(
                 "testcommand",
-                "A test command that shows a title to the player.",
+                "A tesft command that shows a title to the player.",
                 false
         ));
     }
